@@ -1,0 +1,12 @@
+link_data_set
+  https://www.kaggle.com/datasets/mustai/continual-learning-of-covid19/
+decribtion:
+The datasets used to create the CL-COVIDset are publicly available.
+  The CT images in the CL-COVIDset consist of normal scans [43] and scans showing infections caused by the wild-type SARS-CoV-2 strain [43] and its Omicron and Delta variants [44]. 
+  The dataset also included CT images of other viral pneumonia infections [43]
+  . X-ray images in the CL-COVIDset also included normal scans and those showing infections caused by MERS [45], SARS [45], wild-type SARS-CoV-2 [45], the Omicron and Delta variants [44], 
+other vi-ral pneumonia infections [46,47], and bacterial pneumonia [48] infections.
+The CL-COVIDset consisted of three sets: a training set, a validation set, and an eval-uation set (see Table 1). 
+  The use of the validation set allowed us to fine-tune our model, and the model was finally tested for performance on the evaluation set. 
+    The performance of the model on the evaluation set was assessed using observed and unobserved data and distributions.
+    To facilitate the use of CL-COVIDset by the wider research community
